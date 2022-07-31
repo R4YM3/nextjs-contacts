@@ -1,0 +1,21 @@
+[debug] [2022-07-31T16:18:56.257Z] ----------------------------------------------------------------------
+[debug] [2022-07-31T16:18:56.257Z] Command:       /Users/rschweers/.nvm/versions/node/v16.13.0/bin/node /Users/rschweers/.nvm/versions/node/v16.13.0/bin/firebase init
+[debug] [2022-07-31T16:18:56.258Z] CLI Version:   11.4.0
+[debug] [2022-07-31T16:18:56.258Z] Platform:      darwin
+[debug] [2022-07-31T16:18:56.258Z] Node Version:  v16.13.0
+[debug] [2022-07-31T16:18:56.260Z] Time:          Sun Jul 31 2022 18:18:56 GMT+0200 (Central European Summer Time)
+[debug] [2022-07-31T16:18:56.261Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-31T16:18:56.263Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-31T16:18:56.264Z] > authorizing via signed-in user (raymondschweers85@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/rschweers/development/hetwebbureau/nextjs-contacts
+
